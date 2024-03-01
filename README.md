@@ -1,6 +1,6 @@
 # UX Portfolio
 
-## About me... Senior
+### About me... Senior in CSU Chico
 
 # UX Team Project
 
