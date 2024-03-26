@@ -8,4 +8,4 @@ Coming soon.
 
 # UX Journal
 
-[View the Journal](./j01/Journal.md)
+[Navigating a grocery App](./j01/Journal.md)
