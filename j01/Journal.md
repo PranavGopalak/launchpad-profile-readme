@@ -8,7 +8,7 @@ Last weekend, I decided to try online grocery shopping through Safeway App for t
 
 I was welcomed into a page stuffed with deals and promotions when I first logged in. The fact that it took me several seconds to locate the search bar is evidence of how crucial visibility is in design. The ease with which users can locate the tools and features they require to complete their tasks is referred to as visibility. The search bar ought to have been noticeable in this instance, but it was lost amid the noise.
 
-![App Image](App.png)
+![App Image](App.jpg)
 
 I liked the feedback feature, which allowed me to add items to my cart and have the site confirm it with a subtle animation, as I browsed through their categories. In user experience, feedback is essential because it tells users that their actions have been received and handled by the system.
 Using the Safeway App to shop for groceries online was a smooth experience but could be better with slight improvements. On the one hand, a seamless shopping experience was made possible by the feedback mechanisms used during item selection. However, there were also notable disadvantages, such as the checkout process's inefficiency and the poor visibility of some crucial features.
